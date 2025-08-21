@@ -137,7 +137,8 @@ hr {
 }
 
 .project {
-  margin-bottom: 2rem; /* adds space below each project */
+  margin-top: 2rem; /* adds space below each project */
+  margin-bottom: 3rem;
 }
 
 
