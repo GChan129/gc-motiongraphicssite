@@ -136,6 +136,13 @@ hr {
   }
 }
 
+.project {
+  margin-bottom: 2rem; /* adds space below each project */
+}
+
+
+
+
 .sr-only {
   border: 0;
   padding: 0;
